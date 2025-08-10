@@ -1,5 +1,4 @@
-# data_visualization_project
-## Summary of Comprehensive Machine Learning Project: Predicting Bike Rentals Over a 30-Day Period
+# Summary of Comprehensive Machine Learning Project: Predicting Bike Rentals Over a 30-Day Period
 _________________________________________
 In this project, the goal is to forecast the number of bike rentals over a 30-day period, using historical data from the Bike Sharing dataset (day.csv). The problem is framed as a time series forecasting task, where multiple linear regression is employed to predict bike rentals based on various features.
 The project focuses on:
